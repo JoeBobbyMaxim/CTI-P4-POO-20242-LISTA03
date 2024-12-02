@@ -25,54 +25,54 @@ Uma sub-rotina é um **bloco de código nomeado** que realiza uma tarefa especí
 
 
 ### 1️⃣ **Retornar 1 se o número for positivo ou 0 se for negativo**  
-- [🔗 **Solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE01/src/br/edu/principal/Principal.java)  
+- [🔗 **Solução**](https://github.com/JoeBobbyMaxim/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE01/src/br/edu/principal/Principal.java)  
 
 ---
 
 ### 2️⃣ **Somar os inteiros entre dois números positivos**  
-- [🔗 **Solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE02/src/br/edu/principal/Principal.java)  
+- [🔗 **Solução**](https://github.com/JoeBobbyMaxim/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE02/src/br/edu/principal/Principal.java)  
 
 ---
 
 ### 3️⃣ **Somar os inteiros entre dois números divisíveis por um terceiro número**  
-- [🔗 **Solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE03/src/br/edu/principal/Principal.java)  
+- [🔗 **Solução**](https://github.com/JoeBobbyMaxim/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE03/src/br/edu/principal/Principal.java)  
 
 ---
 
 ### 4️⃣ **Converter segundos para horas, minutos e segundos**  
-- [🔗 **Solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE04/src/br/edu/principal/Principal.java)  
+- [🔗 **Solução**](https://github.com/JoeBobbyMaxim/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE04/src/br/edu/principal/Principal.java)  
 
 ---
 
 ### 5️⃣ **Calcular o percentual de acréscimo entre o valor antigo e o atual de um produto**  
-- [🔗 **Solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE05/src/br/edu/principal/Principal.java)  
+- [🔗 **Solução**](https://github.com/JoeBobbyMaxim/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE05/src/br/edu/principal/Principal.java)  
 
 ---
 
 ### 6️⃣ **Mostrar a tabela de multiplicação de um número entre 1 e 9**  
-- [🔗 **Solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE06/src/br/edu/principal/Principal.java)  
+- [🔗 **Solução**](https://github.com/JoeBobbyMaxim/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE06/src/br/edu/principal/Principal.java)  
 
 ---
 
 ### 7️⃣ **Calcular a média (aritmética ou ponderada) de três notas com base em uma letra**  
-- [🔗 **Solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE07/src/br/edu/principal/Principal.java)  
+- [🔗 **Solução**](https://github.com/JoeBobbyMaxim/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE07/src/br/edu/principal/Principal.java)  
 
 ---
 
 ### 8️⃣ **Calcular a duração de um jogo em minutos**  
 - **Descrição:** Considera o horário de início e término (horas e minutos).  
-- [🔗 **Solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE08/src/br/edu/principal/Principal.java)  
+- [🔗 **Solução**](https://github.com/JoeBobbyMaxim/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE08/src/br/edu/principal/Principal.java)  
 
 ---
 
 ### 9️⃣ **Determinar o maior e o menor valor entre cinco números inteiros**  
-- [🔗 **Solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE09/src/br/edu/principal/Principal.java)  
+- [🔗 **Solução**](https://github.com/JoeBobbyMaxim/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE09/src/br/edu/principal/Principal.java)  
 
 ---
 
 ### 🔟 **Calcular o valor de S a partir de um valor inteiro N**  
 - **Descrição:** Usa uma fórmula específica para calcular o valor de S.  
-- [🔗 **Solução**](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE10/src/br/edu/principal/Principal.java)  
+- [🔗 **Solução**](https://github.com/JoeBobbyMaxim/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE10/src/br/edu/principal/Principal.java)  
 
 ---
 
